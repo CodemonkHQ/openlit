@@ -125,6 +125,15 @@
         "nano": 0.00003333333
     },
     "chat": {
+            "apac.anthropic.claude-sonnet-4-20250514-v1:0": {
+            "promptPrice": 0.0015,
+            "completionPrice": 0.003
+        },
+         {
+            "apac.anthropic.claude-3-7-sonnet-20250219-v1:0": {
+            "promptPrice": 0.0015,
+            "completionPrice": 0.003
+        },
         "gpt-4.1-nano-2025-04-14": {
             "promptPrice": 0.0001,
             "completionPrice": 0.0004
